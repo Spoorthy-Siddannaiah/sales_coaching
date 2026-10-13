@@ -3,9 +3,9 @@
 ## Overview
 
 A local, single-user web application that imports sales transcripts, combines them with customer context and saves structured coaching with exact source evidence and history.
-Stack: **React/TypeScript + Vite, FastAPI/Pydantic, SQLite and GPT-4.1 mini**.
+Stack: **React/TypeScript, FastAPI/Pydantic, SQLite and GPT-4.1 mini**.
 **Path A (native Notion Meeting Notes import) is implemented. Path B is proposed only.**
-No Intellegam internal system, CRM, login, telephony or meeting bot is required.
+
 
 ## Demo Video
 
