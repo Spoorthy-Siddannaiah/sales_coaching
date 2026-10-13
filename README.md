@@ -11,7 +11,11 @@ No Intellegam internal system, CRM, login, telephony or meeting bot is required.
 
 
 
-**Demo link:** (https://github.com/Spoorthy-Siddannaiah/sales_coaching/releases/download/v1.0.0/sales-coaching-demo.mov)
+**Demo link:** 
+
+https://github.com/user-attachments/assets/0d0fb9a2-bf74-43a0-ac30-2b1af03b1265
+
+(https://github.com/Spoorthy-Siddannaiah/sales_coaching/releases/download/v1.0.0/sales-coaching-demo.mov)
 
 ## Implemented Features
 
