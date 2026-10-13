@@ -9,9 +9,9 @@ No Intellegam internal system, CRM, login, telephony or meeting bot is required.
 
 ## Demo Video
 
-A 4-minute-57-second application walkthrough has been recorded and will be published as a GitHub Release asset.
 
-**Demo link:** Pending GitHub Release publication.
+
+**Demo link:** (https://github.com/Spoorthy-Siddannaiah/sales_coaching/releases/download/v1.0.0/sales-coaching-demo.mov)
 
 ## Implemented Features
 
