@@ -10,9 +10,10 @@ I implemented **Path A: importing native Notion AI Meeting Notes**. I also desig
 
 ## Demo
 
-I recorded a walkthrough of the app (about 5 minutes).
 
-**Video:** Link to be added after upload to GitHub. 
+https://github.com/user-attachments/assets/0d0fb9a2-bf74-43a0-ac30-2b1af03b1265
+
+
 
 ## What works
 
