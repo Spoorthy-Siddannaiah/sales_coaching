@@ -212,6 +212,8 @@ integration is claimed.
 
 Development time (candidate estimate, not independently audited): Approximately **8–9 hours** of active development, including architecture,
 implementation, debugging, testing and documentation; this estimate may exceed the eight-hour
-challenge timebox. OpenAI Codex assisted implementation, review, debugging, test generation,
+challenge timebox. 
+
+OpenAI Codex assisted implementation, review, debugging, test generation,
 mocked browser acceptance and explanations. Architectural decisions, integration boundaries,
 evidence-validation requirements and final verification were reviewed and directed by the developer.
