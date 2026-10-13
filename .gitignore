@@ -1,0 +1,35 @@
+.venv/
+.env
+.env.*
+!.env.example
+__pycache__/
+.pytest_cache/
+*.py[cod]
+data/
+*.sqlite3
+*.sqlite3-*
+node_modules/
+dist/
+.DS_Store
+import-result.json
+
+# Generated previews and local output artifacts
+tmp/
+output/
+
+/data/rejected-diagnostics/
+
+# Submission assets and private/local preparation (original files stay local)
+*.mov
+*.mp4
+*.log
+*.db
+*.db-*
+*.sqlite
+*.sqlite-*
+/path_A.png
+/path_B.png
+/shared_pipeline.png
+/docs/interview-questions.md
+/docs/coaching-reliability-review.md
+/docs/stage4*.md

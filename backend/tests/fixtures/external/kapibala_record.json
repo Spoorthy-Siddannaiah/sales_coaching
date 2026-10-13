@@ -1,0 +1,65 @@
+{
+  "id": "kapibala-sim:mstate:S46_standard",
+  "messages": [
+    {
+      "role": "b",
+      "content": "Hi there! I am looking for an AI-powered helpdesk platform to automate our customer support tickets before our peak season. We need a solution that can integrate with our systems quickly—do you have an enterprise tier available?"
+    },
+    {
+      "role": "a",
+      "content": "Yes, we have exactly what you need. Our OmniSupport AI Enterprise Tier is designed for rapid deployment, getting you live within 14 days—with onboarding starting in just 3 business days to make sure you are ready before your peak season.\nIt includes out-of-the-box integration for up to 5 external CRMs. To make sure we fit your technical setup, which CRM or systems are you currently using?"
+    },
+    {
+      "role": "b",
+      "content": "We are currently using Shopify and Zendesk for our customer support operations. \n\nThe 14-day timeline sounds perfect for us, as we need to get this live before our holiday rush. Since most of our repetitive tickets are about order tracking and returns, how does your AI handle those specific workflows? Also, what is the annual pricing for the Enterprise Tier?"
+    },
+    {
+      "role": "a",
+      "content": "OmniSupport AI handles those workflows seamlessly by integrating directly with Shopify and Zendesk. We fine-tune a custom AI model on your company data to pull real-time tracking info and automate return processes, resolving up to 70% of these common inquiries.\nThe Enterprise Tier is $28,800/year (billed annually at $2,400 per month).\nSince we can kick off onboarding within 3 business days to beat your holiday rush, would you like me to send over the signup link to secure your launch slot?"
+    },
+    {
+      "role": "b",
+      "content": "That pricing and timeline fit our budget and schedule perfectly. \n\nBefore you send the link, I have two quick questions:\n1. How does the handoff to our Zendesk agents work when the AI can't resolve a ticket?\n2. Are you SOC2 compliant, and how do you handle customer data security?\n\nIf those check out, we are ready to move forward immediately."
+    },
+    {
+      "role": "a",
+      "content": "For the handoff, the AI transfers the ticket and its full conversation history directly to your Zendesk agents (utilizing the 50 human-agent seats included in your tier) so they can take over instantly without the customer repeating themselves.\nRegarding SOC2 compliance and our specific data security protocols, I want to ensure I provide the exact official details, so I will confirm this with our compliance team right now.\nWould you like me to email you our security datasheet as soon as I have it?"
+    },
+    {
+      "role": "b",
+      "content": "Yes, please send over the security datasheet as soon as possible. You can send it to my email. \n\nThe Zendesk handoff sounds exactly like what we need to keep things seamless for our team. If the datasheet confirms your SOC2 compliance and standard data encryption practices, we are ready to sign the contract and kick off onboarding. \n\nGo ahead and send over the signup link as well so we have it ready to go once the security review is complete."
+    },
+    {
+      "role": "a",
+      "content": "I will send that security datasheet directly to your email right away.\nIn the meantime, you can access the onboarding signup page here to have it ready: omnisupport.example/enterprise-onboarding.\nI will follow up as soon as the datasheet is in your inbox so we can get everything finalized and kick off your onboarding!"
+    },
+    {
+      "role": "b",
+      "content": "Thanks for the link. I will keep an eye out for the datasheet in my inbox. \n\nAssuming the SOC2 compliance and data security details align with our standard corporate policies, we are ready to officially sign and kick off the onboarding this week. This is exactly the solution we need to take the pressure off our support team before the holiday rush. \n\nI'll review the document as soon as it arrives and complete the signup right after.\nHi, just following up. I received the security datasheet via email, and everything looks great—your SOC2 compliance and data encryption protocols meet all of our corporate requirements. \n\nI have gone ahead and completed the signup process using the link you provided to secure our launch slot. We are officially purchasing the OmniSupport AI Enterprise Tier! \n\nThe combination of the 14-day deployment timeline, seamless Zendesk and Shopify integrations, and the ability to automate our order tracking and returns within our budget made this an easy decision. We are excited to kick off onboarding this week and get this live before our holiday rush. \n\nPlease let me know what the next steps are for our kickoff meeting!"
+    },
+    {
+      "role": "a",
+      "content": "Welcome aboard! We are absolutely thrilled to partner with you and help take the pressure off your support team this holiday season.\nNow that your signup is complete, our onboarding team will reach out to you within the next 3 business days to schedule your kickoff meeting. We will get straight to work on integrating your Shopify and Zendesk systems so we can hit that 14-day live launch target.\nKeep an eye on your inbox for the scheduling link!"
+    },
+    {
+      "role": "b",
+      "content": "That sounds great! I'll keep an eye out for the email and get our team prepped for the kickoff. \n\nWe are really looking forward to working together and getting this live. Thank you for the quick and seamless process!"
+    },
+    {
+      "role": "a",
+      "content": "It is our absolute pleasure! We are excited to help you deliver a fantastic experience for your customers this holiday season.\nWe will talk to you very soon for the kickoff!"
+    },
+    {
+      "role": "b",
+      "content": "Sounds like a plan! Thanks again, and we'll talk soon. Have a great rest of your day!"
+    },
+    {
+      "role": "a",
+      "content": "You too! Have a wonderful day, and we'll talk soon."
+    },
+    {
+      "role": "b",
+      "content": "Take care!\nI'm all set on my end. Looking forward to the email!\nI'll sign off now. Thanks again!"
+    }
+  ]
+}

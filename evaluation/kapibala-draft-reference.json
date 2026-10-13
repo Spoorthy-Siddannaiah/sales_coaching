@@ -1,0 +1,80 @@
+{
+  "status": "DRAFT_FOR_HUMAN_REVIEW",
+  "confirmed_ground_truth": false,
+  "record_id": "kapibala-sim:mstate:S46_standard",
+  "transcript_sha256": "783c5d79f1b291d75b33bbf88e62af7057314affa0f1ac04e15e1ca749b5855c",
+  "scope": "One synthetic conversation; diagnostic across five dimensions, not a statistically reliable benchmark.",
+  "source": "Thomasgudan/kapibala-sales-dialogues; CC BY 4.0; synthetic, not an authentic recorded sale.",
+  "dimensions": {
+    "understanding_customer_needs": {
+      "score": 3,
+      "reason": "Recognizes workflows and integrations; workload, business impact and measurable success are not established.",
+      "status": "DRAFT"
+    },
+    "discovery_questions": {
+      "score": 2,
+      "reason": "Systems question is relevant; customer volunteers most needs and security concerns, while other salesperson questions concern logistics.",
+      "status": "DRAFT"
+    },
+    "value_explanation": {
+      "score": 3,
+      "reason": "Explains relevant workflows but the claimed automation percentage is not substantiated and customer-specific value is not measured.",
+      "status": "DRAFT"
+    },
+    "objection_handling": {
+      "score": 5,
+      "reason": "Honest verification promise followed by customer-reported acceptance supports resolution; does not independently verify certification.",
+      "status": "DRAFT"
+    },
+    "next_step_clarity": {
+      "score": 4,
+      "reason": "Onboarding contact has an owner/deadline; contact timing must not be conflated with a confirmed kickoff date.",
+      "status": "DRAFT"
+    }
+  },
+  "transcript_facts": [
+    {
+      "fact": "Customer reports receipt/security review and completed signup. This is not independent certification verification.",
+      "source_turns": [
+        "t0009"
+      ],
+      "state": "reported_completed"
+    },
+    {
+      "fact": "Onboarding team promises contact within three business days to arrange kickoff; meeting date is not confirmed.",
+      "source_turns": [
+        "t0010"
+      ],
+      "state": "pending"
+    },
+    {
+      "fact": "Customer raises handoff and security concerns; the salesperson asks about systems and offers signup/document logistics.",
+      "source_turns": [
+        "t0002",
+        "t0005",
+        "t0006"
+      ],
+      "state": "observed"
+    }
+  ],
+  "factual_reviews": {
+    "df04186e-5120-4fe2-a595-910499a2a2b2": {
+      "status": "MANUAL_DIAGNOSTIC_REVIEW",
+      "completed_actions_listed_pending": false,
+      "findings": [
+        "Next steps correctly contain only onboarding contact/scheduling.",
+        "Discovery reason incorrectly credits salesperson with uncovering customer-volunteered security criteria.",
+        "Value reason treats claimed automation percentage as substantiated without independent source evidence.",
+        "Next-step reason overstates contact within three days as kickoff scheduling within three days.",
+        "Improvement 2 proposes checking document receipt despite the customer already reporting receipt and acceptance."
+      ]
+    },
+    "5e689bd0-809a-458b-b468-2a51e838ae8a": {
+      "status": "MANUAL_DIAGNOSTIC_REVIEW",
+      "completed_actions_listed_pending": true,
+      "findings": [
+        "Security-document follow-up is superseded by later customer-reported receipt/signup and the onboarding scheduling commitment."
+      ]
+    }
+  }
+}

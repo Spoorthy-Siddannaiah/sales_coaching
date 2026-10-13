@@ -1,0 +1,289 @@
+{
+  "mode": "full",
+  "summary": {
+    "text": "The conversation effectively qualified the customer's enterprise helpdesk needs before the peak season, addressed integration and security requirements, and agreed on clear next steps including signing up and scheduling onboarding.",
+    "evidence": [
+      {
+        "quote": "I am looking for an AI-powered helpdesk platform to automate our customer support tickets before our peak season.",
+        "role": "customer"
+      },
+      {
+        "quote": "Our OmniSupport AI Enterprise Tier is designed for rapid deployment, getting you live within 14 days",
+        "role": "salesperson"
+      },
+      {
+        "quote": "We are currently using Shopify and Zendesk for our customer support operations.",
+        "role": "customer"
+      },
+      {
+        "quote": "OmniSupport AI handles those workflows seamlessly by integrating directly with Shopify and Zendesk.",
+        "role": "salesperson"
+      },
+      {
+        "quote": "I want to ensure I provide the exact official details, so I will confirm this with our compliance team right now.",
+        "role": "salesperson"
+      },
+      {
+        "quote": "I will send that security datasheet directly to your email right away.",
+        "role": "salesperson"
+      },
+      {
+        "quote": "I have gone ahead and completed the signup process using the link you provided to secure our launch slot.",
+        "role": "customer"
+      },
+      {
+        "quote": "Our onboarding team will reach out to you within the next 3 business days to schedule your kickoff meeting.",
+        "role": "salesperson"
+      }
+    ]
+  },
+  "customer_needs_and_pain_points": [
+    {
+      "text": "Customer needs an AI-powered helpdesk platform that integrates quickly with Shopify and Zendesk to automate repetitive order tracking and returns tickets before the holiday rush.",
+      "evidence": [
+        {
+          "quote": "I am looking for an AI-powered helpdesk platform to automate our customer support tickets before our peak season.",
+          "role": "customer"
+        },
+        {
+          "quote": "We are currently using Shopify and Zendesk for our customer support operations.",
+          "role": "customer"
+        },
+        {
+          "quote": "Since most of our repetitive tickets are about order tracking and returns, how does your AI handle those specific workflows?",
+          "role": "customer"
+        }
+      ]
+    }
+  ],
+  "outcome": {
+    "text": "Customer agreed to purchase the OmniSupport AI Enterprise Tier, completed signup, and scheduled onboarding kickoff pending security datasheet review which was confirmed satisfactory.",
+    "evidence": [
+      {
+        "quote": "I have gone ahead and completed the signup process using the link you provided to secure our launch slot.",
+        "role": "customer"
+      },
+      {
+        "quote": "The combination of the 14-day deployment timeline, seamless Zendesk and Shopify integrations, and the ability to automate our order tracking and returns within our budget made this an easy decision.",
+        "role": "customer"
+      },
+      {
+        "quote": "Our onboarding team will reach out to you within the next 3 business days to schedule your kickoff meeting.",
+        "role": "salesperson"
+      }
+    ]
+  },
+  "questions_asked": [
+    {
+      "text": "Salesperson asked about the customer's current CRM and systems to ensure technical fit.",
+      "evidence": [
+        {
+          "quote": "To make sure we fit your technical setup, which CRM or systems are you currently using?",
+          "role": "salesperson"
+        }
+      ]
+    }
+  ],
+  "open_questions": [
+    {
+      "text": "Customer asked about AI handling of order tracking and returns workflows and annual pricing.",
+      "evidence": [
+        {
+          "quote": "Since most of our repetitive tickets are about order tracking and returns, how does your AI handle those specific workflows? Also, what is the annual pricing for the Enterprise Tier?",
+          "role": "customer"
+        }
+      ]
+    },
+    {
+      "text": "Customer asked about handoff to Zendesk agents and SOC2 compliance/data security.",
+      "evidence": [
+        {
+          "quote": "1. How does the handoff to our Zendesk agents work when the AI can't resolve a ticket? 2. Are you SOC2 compliant, and how do you handle customer data security?",
+          "role": "customer"
+        }
+      ]
+    }
+  ],
+  "next_steps": [
+    {
+      "text": "Salesperson to send security datasheet and signup link; customer to review and complete signup.",
+      "evidence": [
+        {
+          "quote": "Would you like me to email you our security datasheet as soon as I have it?",
+          "role": "salesperson"
+        },
+        {
+          "quote": "Yes, please send over the security datasheet as soon as possible.",
+          "role": "customer"
+        },
+        {
+          "quote": "I will send that security datasheet directly to your email right away. In the meantime, you can access the onboarding signup page here to have it ready: omnisupport.example/enterprise-onboarding.",
+          "role": "salesperson"
+        }
+      ]
+    },
+    {
+      "text": "Onboarding team to contact customer within 3 business days to schedule kickoff meeting.",
+      "evidence": [
+        {
+          "quote": "Our onboarding team will reach out to you within the next 3 business days to schedule your kickoff meeting.",
+          "role": "salesperson"
+        }
+      ]
+    }
+  ],
+  "dimensions": {
+    "understanding_customer_needs": {
+      "score": 5,
+      "reason": "The salesperson demonstrated a clear understanding of the customer's needs by confirming the customer's current systems and addressing specific workflows for order tracking and returns.",
+      "evidence": [
+        {
+          "quote": "To make sure we fit your technical setup, which CRM or systems are you currently using?",
+          "role": "salesperson"
+        },
+        {
+          "quote": "OmniSupport AI handles those workflows seamlessly by integrating directly with Shopify and Zendesk.",
+          "role": "salesperson"
+        }
+      ]
+    },
+    "discovery_questions": {
+      "score": 4,
+      "reason": "The salesperson asked relevant discovery questions about the customer's current CRM systems but could have probed more about other potential pain points or success criteria.",
+      "evidence": [
+        {
+          "quote": "To make sure we fit your technical setup, which CRM or systems are you currently using?",
+          "role": "salesperson"
+        }
+      ]
+    },
+    "value_explanation": {
+      "score": 5,
+      "reason": "The salesperson clearly explained the value of the product including rapid deployment, integration capabilities, AI handling of workflows, and pricing.",
+      "evidence": [
+        {
+          "quote": "Our OmniSupport AI Enterprise Tier is designed for rapid deployment, getting you live within 14 days",
+          "role": "salesperson"
+        },
+        {
+          "quote": "We fine-tune a custom AI model on your company data to pull real-time tracking info and automate return processes, resolving up to 70% of these common inquiries.",
+          "role": "salesperson"
+        },
+        {
+          "quote": "The Enterprise Tier is $28,800/year (billed annually at $2,400 per month).",
+          "role": "salesperson"
+        }
+      ]
+    },
+    "objection_handling": {
+      "score": 5,
+      "reason": "The salesperson effectively addressed objections about handoff processes and security compliance by providing detailed explanations and promising to send official documentation.",
+      "evidence": [
+        {
+          "quote": "For the handoff, the AI transfers the ticket and its full conversation history directly to your Zendesk agents",
+          "role": "salesperson"
+        },
+        {
+          "quote": "I want to ensure I provide the exact official details, so I will confirm this with our compliance team right now.",
+          "role": "salesperson"
+        },
+        {
+          "quote": "I will send that security datasheet directly to your email right away.",
+          "role": "salesperson"
+        }
+      ]
+    },
+    "next_step_clarity": {
+      "score": 5,
+      "reason": "The salesperson clearly outlined next steps including sending the security datasheet, providing the signup link, and scheduling the onboarding kickoff meeting.",
+      "evidence": [
+        {
+          "quote": "Would you like me to email you our security datasheet as soon as I have it?",
+          "role": "salesperson"
+        },
+        {
+          "quote": "I will send that security datasheet directly to your email right away. In the meantime, you can access the onboarding signup page here to have it ready: omnisupport.example/enterprise-onboarding.",
+          "role": "salesperson"
+        },
+        {
+          "quote": "Our onboarding team will reach out to you within the next 3 business days to schedule your kickoff meeting.",
+          "role": "salesperson"
+        }
+      ]
+    }
+  },
+  "strengths": [
+    {
+      "text": "Clear understanding of customer's technical environment and specific workflow needs.",
+      "evidence": [
+        {
+          "quote": "To make sure we fit your technical setup, which CRM or systems are you currently using?",
+          "role": "salesperson"
+        },
+        {
+          "quote": "OmniSupport AI handles those workflows seamlessly by integrating directly with Shopify and Zendesk.",
+          "role": "salesperson"
+        }
+      ]
+    },
+    {
+      "text": "Effective explanation of product value including deployment timeline, integration, AI capabilities, and pricing.",
+      "evidence": [
+        {
+          "quote": "Our OmniSupport AI Enterprise Tier is designed for rapid deployment, getting you live within 14 days",
+          "role": "salesperson"
+        },
+        {
+          "quote": "We fine-tune a custom AI model on your company data to pull real-time tracking info and automate return processes, resolving up to 70% of these common inquiries.",
+          "role": "salesperson"
+        },
+        {
+          "quote": "The Enterprise Tier is $28,800/year (billed annually at $2,400 per month).",
+          "role": "salesperson"
+        }
+      ]
+    },
+    {
+      "text": "Proactive and transparent handling of security and compliance concerns with follow-up documentation.",
+      "evidence": [
+        {
+          "quote": "I want to ensure I provide the exact official details, so I will confirm this with our compliance team right now.",
+          "role": "salesperson"
+        },
+        {
+          "quote": "I will send that security datasheet directly to your email right away.",
+          "role": "salesperson"
+        }
+      ]
+    }
+  ],
+  "improvements": [
+    {
+      "suggestion": "Ask more open-ended discovery questions to uncover additional customer pain points or success criteria beyond the current CRM and workflows.",
+      "why_it_matters": "This would deepen understanding of the customer's broader needs and help tailor the solution more precisely, increasing the chance of a successful sale.",
+      "suggested_phrasing": "Can you tell me more about any other challenges your support team faces during peak season?",
+      "evidence": [
+        {
+          "quote": "To make sure we fit your technical setup, which CRM or systems are you currently using?",
+          "role": "salesperson"
+        }
+      ]
+    },
+    {
+      "suggestion": "Confirm customer's preferred communication channel and timeline for follow-up on security datasheet to ensure timely response and maintain momentum.",
+      "why_it_matters": "This helps manage expectations and keeps the sales process on track, reducing risk of delays or lost engagement.",
+      "suggested_phrasing": "What is the best way and timeframe to follow up with you once I have the security datasheet?",
+      "evidence": [
+        {
+          "quote": "I want to ensure I provide the exact official details, so I will confirm this with our compliance team right now.",
+          "role": "salesperson"
+        }
+      ]
+    }
+  ],
+  "fewer_improvements_reason": null,
+  "evidence_limitations": [
+    "Speaker attribution is unavailable.",
+    "Quotes alone do not guarantee full context or intent behind statements."
+  ]
+}

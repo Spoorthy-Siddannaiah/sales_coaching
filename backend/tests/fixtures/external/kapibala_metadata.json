@@ -1,0 +1,14 @@
+{
+  "id": "kapibala-sim:mstate:S46_standard",
+  "source": "kapibala-sim",
+  "arm": "mstate",
+  "language": "en",
+  "domain": "b2b_software",
+  "product": "Product Name: OmniSupport AI",
+  "salesperson_type": "standard",
+  "customer_buy_propensity": 0.9,
+  "difficulty": "easy",
+  "setting_id": "S46",
+  "ended": "round_limit",
+  "n_messages": 15
+}
