@@ -1,4 +1,4 @@
-# Intellegam Sales Coaching
+# Sales Coaching
 
 ## What I built
 
@@ -7,13 +7,6 @@ I built a local web app that imports a sales meeting transcript, lets the user a
 I implemented **Path A: importing native Notion AI Meeting Notes**. I also designed **Path B: recording a salesperson-first phone call**, but did not build it.
 
 **Tech stack:** React, TypeScript, Vite, Python, FastAPI, SQLite, and GPT-4.1 mini.
-
-## Demo
-
-
-https://github.com/user-attachments/assets/0d0fb9a2-bf74-43a0-ac30-2b1af03b1265
-
-
 
 ## What works
 
@@ -55,7 +48,7 @@ Both paths would eventually produce a transcript that can be sent to the same co
 
 ## Why I made these choices
 
-I chose Path A because I could build and test a useful end-to-end workflow within the challenge time. I used FastAPI because I am comfortable working with Python for APIs and LLM integrations. React and TypeScript handle the user interface, while SQLite keeps the local prototype simple.
+I chose Path A because I could build and test a useful end-to-end workflow with a focused implementation scope. I used FastAPI because I am comfortable working with Python for APIs and LLM integrations. React and TypeScript handle the user interface, while SQLite keeps the local prototype simple.
 
 I kept the original transcript separate from the coaching reports. Each saved report includes the context used for that analysis, so previous reports are not overwritten.
 

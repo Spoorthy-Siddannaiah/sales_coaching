@@ -15,7 +15,7 @@ from test_notion_import import MEETING, PAGE, ROOT, TEXT, block_list, paragraph
 from test_workflow import MockProvider
 
 # A new process gets clean storage without touching the real project databases.
-storage = tempfile.TemporaryDirectory(prefix="intellegam-ui-test-")
+storage = tempfile.TemporaryDirectory(prefix="sales-coaching-ui-test-")
 settings = Settings(
     _env_file=None,
     llm_provider="ollama",

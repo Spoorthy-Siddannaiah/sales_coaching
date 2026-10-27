@@ -49,7 +49,7 @@ def create_app(settings: Settings | None = None, provider_factory=create_provide
         finally:
             await application.state.analysis_runner.close()
 
-    application = FastAPI(title="Intellegam Sales Coaching", lifespan=lifespan)
+    application = FastAPI(title="Sales Coaching", lifespan=lifespan)
 
     application.include_router(conversations.router)
     application.include_router(analyses.router)

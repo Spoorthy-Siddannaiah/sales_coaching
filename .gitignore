@@ -19,7 +19,7 @@ output/
 
 /data/rejected-diagnostics/
 
-# Submission assets and private/local preparation (original files stay local)
+# Private recordings and local preparation (original files stay local)
 *.mov
 *.mp4
 *.log
@@ -30,6 +30,6 @@ output/
 /path_A.png
 /path_B.png
 /shared_pipeline.png
-/docs/interview-questions.md
+/docs/*questions*.md
 /docs/coaching-reliability-review.md
 /docs/stage4*.md
